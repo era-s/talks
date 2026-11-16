@@ -10,7 +10,7 @@
 | 시기 | 제목 | 세부사항 | 분량 |
 |---|---|---|---|
 | 2026.11 | [Roofline: An Insightful Visual Performance Model (CACM 2009)](external/2026-11-inferencekorea-roofline.pdf) | Inference Korea 논문 스터디 4주차 | 23쪽 |
-| 2026.11 | [인천 지하철 승차 인원 예측](external/2026-11-sincon-incheon-subway-forecast.pdf) | SINCON 2026: The Agent Era (팀 전전컴) | 19쪽 |
+| 2026.11 | [인천 지하철 승차 인원 예측](external/2026-11-sincon-incheon-subway-forecast.pdf) | SINCON 2026: The Agent Era 최우수상 (팀 전전컴) | 19쪽 |
 | 2026.06 | [On-Device AI Optimization Competition](external/2026-06-nota-ondevice-ai-competition.pdf) | 노타 온디바이스 AI 최적화 대회, KCC (CAMe 팀) | 25쪽 |
 | 2025.05 | [Transformer and GPT](external/2025-05-gyesan-highschool-gpt-lecture.pdf) | 계산고등학교 강의 | 33쪽 |
 
